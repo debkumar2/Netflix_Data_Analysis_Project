@@ -1,6 +1,6 @@
-# 🎬 Netflix Movies & TV Shows Data Analysis
+#  Netflix Movies & TV Shows Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing Netflix Movies and TV Shows using Python.
 
@@ -8,7 +8,7 @@ The objective is to explore Netflix's content library, identify patterns and tre
 
 This project demonstrates practical skills in Python, data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Understand the Netflix dataset structure.
 - Clean and preprocess raw data.
@@ -20,7 +20,7 @@ This project demonstrates practical skills in Python, data cleaning, exploratory
 - Perform statistical analysis on relevant variables.
 - Visualize important findings using Python.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -33,7 +33,7 @@ This project demonstrates practical skills in Python, data cleaning, exploratory
 | Kaggle Notebook | Development environment |
 | GitHub | Project documentation |
 
-## 📂 Dataset Information
+##  Dataset Information
 
 **Dataset Name:** Netflix Movies and TV Shows
 
@@ -58,7 +58,7 @@ The dataset contains information about Netflix titles, including:
 
 **Original Dataset Size:** 8,807 rows and 12 columns.
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### Phase 1 – Data Understanding
 
@@ -109,7 +109,7 @@ The dataset contains information about Netflix titles, including:
 | Duration Analysis | Analyze movie duration patterns |
 | Statistical Analysis | Understand distributions and variability |
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes visualizations created using Matplotlib and Seaborn.
 
@@ -123,7 +123,7 @@ Examples:
 - Movie duration histogram.
 - Movie duration boxplot.
 
-## 💡 Key Findings
+##  Key Findings
 
 Add the actual findings obtained from your notebook.
 
@@ -137,7 +137,7 @@ Examples of findings to document:
 - Movie duration variability.
 - Potential duration outliers.
 
-## ⚙️ How to Run This Project
+## How to Run This Project
 
 **Step 1:** Clone the repository.
 
@@ -161,7 +161,7 @@ jupyter notebook
 
 **Step 5:** Open `Netflix_Data_Analysis.ipynb` and run the notebook cells.
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Python Programming
 - Data Cleaning and Preprocessing
@@ -173,7 +173,7 @@ jupyter notebook
 - Analytical Thinking
 - Data Interpretation
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates an end-to-end exploratory and statistical analysis workflow using the Netflix Movies and TV Shows dataset.
 
